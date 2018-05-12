@@ -1,0 +1,33 @@
+_repo: American-Eloquence-Volume-4--13-Studies-In-American-Political-History--1897-_15394
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15394-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Johnston, Alexander
+    birthdate: 1849
+    deathdate: 1889
+    gutenberg_agent_id: '31408'
+    url: http://www.gutenberg.org/2009/agents/31408
+  - agent_name: Woodburn, James Albert
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '31409'
+    url: http://www.gutenberg.org/2009/agents/31409
+description: ''
+gutenberg_issued: '2005-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcc 'E151'
+- !lcsh 'United States -- History'
+- !lcsh 'United States -- Politics and government'
+title: "American Eloquence, Volume 4\r\nStudies In American Political History (1897)"
+url: http://www.gutenberg.org/ebooks/15394
